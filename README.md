@@ -1,4 +1,6 @@
-醉泰集团官网 create-react-app react-router-dom  swiper
+醉泰集团官网 http://www.zuitaikj.com/
+
+主要的create-react-app react-router-dom  swiper
 
 
 npm install 下载依赖
