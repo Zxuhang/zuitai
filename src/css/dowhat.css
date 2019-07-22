@@ -1,0 +1,39 @@
+.zt-dowhat{
+    width:100%;
+    background:#380fa9;
+    overflow: hidden;
+}
+.zt-dowhat p{
+    text-align: center;
+    color:#fff;
+    /* margin-top:-30px; */
+    font-size:14px;
+    letter-spacing:3px;
+    padding:0 15px;
+}
+.zt-dowhat ul{    
+    width:11.7rem;   
+    min-width: 345px; 
+    margin:40px auto;
+    padding:0 15px;
+    display:flex;
+    display:-webkit-flex;
+    display:-ms-flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+.zt-dowhat ul li{
+    font-size:14px;
+    color:#fff;
+    
+    margin:15px 0;
+    letter-spacing:3px;
+    text-align: center;
+}
+/* .zt-dowhat .center{
+    text-align: center;
+}
+.zt-dowhat .right{
+    text-align: right;
+} */

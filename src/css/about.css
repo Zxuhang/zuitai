@@ -1,0 +1,60 @@
+.zt-about,.zt-course{
+    width:11.7rem;   
+    min-width: 345px; 
+    margin:0 auto;
+    margin-top:30px;
+    overflow: hidden;
+    padding:0 15px;
+}
+.zt-about h3,.zt-course h3{
+    font-size:18px;
+    margin-top:30px;
+}
+.zt-about p,.zt-course p{
+    font-size:14px;
+    margin:30px 0;
+    line-height: 30px;
+}
+.zt-about hr,.zt-course hr{
+    border:1px solid #aeaeae;
+}
+.zt-about>div{
+    display: flex;
+    display:-webkit-flex;
+    display:-ms-flex;
+    justify-content: space-between;
+}
+.zt-about>div>div:first-child{
+    width:7.25rem;
+    min-width: 335px;
+    margin-right:60px;
+}
+.zt-about>div>div>img{
+    width:100%;
+}
+.zt-course>div{
+    width:50%;
+    min-width:300px;
+    margin:0 auto;
+    /* background:#aaa; */
+    height:150px;
+    margin-bottom:60px;
+}
+
+.swiper-container{
+    width:100%;
+    height:100%;
+    
+}
+.swiper-slide{
+    display: flex;
+    display:-ms-flex;
+    display: -webkit-flex;
+    align-items: center;
+    text-align: center !important;
+}
+.swiper-pagination-bullet{
+    display:inline !important;
+    color:#fff;
+    border-radius: 0 !important;
+}

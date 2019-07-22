@@ -1,0 +1,27 @@
+.c-title{   
+    width:11.7rem;   
+    min-width: 345px; 
+    margin:0 auto;
+}
+.c-title h3{
+    font-size: 30px;       
+    margin-top:0.7rem;
+} 
+.c-title h4{
+    font-size: 18px;    
+    font-weight: normal;    
+    margin:0 auto;
+    margin-bottom:0.45rem;    
+    border-bottom:1px solid #e9e9e9;
+    width:11.2rem;
+}
+.f-black{
+    color:#000;
+}
+.f-white{
+    color:#fff;
+}
+ .c-b{
+    text-align:center; 
+    font-weight: normal;
+}

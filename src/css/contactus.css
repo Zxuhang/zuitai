@@ -1,0 +1,32 @@
+.zt-contactus{    
+    width:11.7rem;   
+    min-width: 345px; 
+    margin:0 auto;
+    display: flex;
+    display:-webkit-flex;
+    display:-ms-flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    padding:0 15px;
+    padding-bottom:60px;
+}
+.zt-contactus>div{
+    width:557px;
+    min-width: 335px;
+    margin-top:60px;
+    /* height:347px; */
+}
+.zt-contactus div img{
+    width:100%;
+}
+.zt-contactus div h3{
+    font-size:30px;
+}
+.zt-contactus div>div{
+    margin-bottom:40px;
+}
+.zt-contactus div>p{
+    word-wrap: wrap break-word;
+    margin:10px 0;
+    color:#444444;
+}
